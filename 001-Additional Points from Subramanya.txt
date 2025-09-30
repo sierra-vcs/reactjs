@@ -1,0 +1,28 @@
+PFB, 
+
+To be considered:
+
+1/ State Management Approach - Include Context API Zustand/Recoil as good alternative though Redux comes first.
+2/ In Styling - Include Post CSS & BEM  
+
+a/ Why PostCSS? – Brief on modern CSS authoring and build-time transformation.
+b/ Tooling – How PostCSS fits into modern build tools.
+c/ Hands-on Demo – Modify PostCSS config, use nesting and autoprefixer.
+d/ Comparison – When to use PostCSS vs. SCSS/Styled Components.
+
+3/ Testing Tools - Vitest can be included
+
+4/ Error Boundaries and Handling
+
+5/ Code Quality - Touch on ESLint, Prettier, and basic folder structure best practices.
+
+6/ Routing Module - Explicitly list React Router v6+ in the curriculum. It’s a core part of any React app.
+
+7/ Accessibility (a11y) - Consider adding a small module or checkpoint to touch on semantic HTML, ARIA roles, and keyboard navigation.
+
+8/ Dev Tools Familiarity - Include React Developer Tools and Redux DevTools in early modules. 
+
+
+Thank you!
+
+// Subramanya Dixit
